@@ -2,18 +2,18 @@
 <h3 align="center">Computer science fresh graduate passionate about Data Science</h3>
 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="270" height="250">
 
 
 
 ```
 neny-1@github
 -------------------------
-💻 I’m currently learning Data Science
 📚 I have a Bachelors in Computer Science from akhbar elyom academy
+💻 I’m currently learning Data Science
 📝 I have a strong interest in Data Science and AI
-🌟 Main languages: Python, JavaScript , c++ 
 🚩 Interested in football analysis
+🌟 Main languages: Python, c++, JavaScript
 
 
 ```
