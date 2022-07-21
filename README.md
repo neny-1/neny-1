@@ -9,7 +9,7 @@
 ```
 neny-1@github
 -------------------------
-📚 I have a Bachelors in Computer Science from akhbar elyom academy
+📚 I have a Bachelors in Computer Science from akhbar elyom academy 
 💻 I’m currently learning Data Science
 📝 I have a strong interest in Data Science and AI
 🚩 Interested in football analysis
