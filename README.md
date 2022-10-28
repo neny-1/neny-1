@@ -15,7 +15,6 @@ neny-1@github
 🚩 Interested in football analysis
 🌟 Main languages: Python, c++, JavaScript
 
-
 ```
 <hr>
 
